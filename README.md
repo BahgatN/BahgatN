@@ -9,6 +9,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" />&nbsp;
   <img src="https://skillicons.dev/icons?i=linux,bash" height="26" />&nbsp;
-  <img src="https://img.shields.io/badge/R%2FShiny-0aa6d6" height="20" />&nbsp;
-  <img src="https://img.shields.io/badge/NoSQL-475569" height="20" />
 </p>
