@@ -1,6 +1,5 @@
-| Center |
-|:------:|
-| $\displaystyle \Huge e^{i\pi}+1=0$ |
+| $\Huge e^{i\pi}+1=0$ |
+|:--------------------:|
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="26" />&nbsp;
