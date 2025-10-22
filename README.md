@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./euler-identity-animated.svg" alt="Euler's identity: e^{i\pi}+1=0" height="48" />
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="26" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26" />&nbsp;
